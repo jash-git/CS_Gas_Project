@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\bin\Debug\net8.0\CS_Gas_Log.exe
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\bin\Debug\net8.0\CS_Gas_Log.deps.json
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\bin\Debug\net8.0\CS_Gas_Log.runtimeconfig.json
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\bin\Debug\net8.0\CS_Gas_Log.dll
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\bin\Debug\net8.0\CS_Gas_Log.pdb
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\CS_Gas_Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\CS_Gas_Log.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\CS_Gas_Log.AssemblyInfo.cs
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\CS_Gas_Log.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\CS_Gas_Log.dll
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\refint\CS_Gas_Log.dll
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\CS_Gas_Log.pdb
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\CS_Gas_Log.genruntimeconfig.cache
+C:\Users\user\Desktop\CS_Gas_Log\CS_Gas_Log\obj\Debug\net8.0\ref\CS_Gas_Log.dll

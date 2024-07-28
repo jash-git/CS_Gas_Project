@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CS_Gas_Log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E211B96-F577-46FA-9581-BDA8CED5B48E}|CS_Gas_Log\\CS_Gas_Log.csproj|c:\\users\\user\\desktop\\cs_gas_log\\cs_gas_log\\chipcomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E211B96-F577-46FA-9581-BDA8CED5B48E}|CS_Gas_Log\\CS_Gas_Log.csproj|solutionrelative:cs_gas_log\\chipcomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E211B96-F577-46FA-9581-BDA8CED5B48E}|CS_Gas_Log\\CS_Gas_Log.csproj|C:\\Users\\user\\Desktop\\CS_Gas_Log\\cs_gas_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E211B96-F577-46FA-9581-BDA8CED5B48E}|CS_Gas_Log\\CS_Gas_Log.csproj|solutionrelative:cs_gas_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChipComm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CS_Gas_Log\\CS_Gas_Log\\ChipComm.cs",
+              "RelativeDocumentMoniker": "CS_Gas_Log\\ChipComm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CS_Gas_Log\\CS_Gas_Log\\ChipComm.cs",
+              "RelativeToolTip": "CS_Gas_Log\\ChipComm.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAhwD0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:50:52.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CS_Gas_Log\\CS_Gas_Log\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Gas_Log\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CS_Gas_Log\\CS_Gas_Log\\Program.cs",
+              "RelativeToolTip": "CS_Gas_Log\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:00:45.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
